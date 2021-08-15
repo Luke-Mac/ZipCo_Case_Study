@@ -20,7 +20,7 @@
 The size of the BNPL market in Australia alone is over 6 million users with a value of approximately $10B, this statistic is a drop in the ocean compared globally.
 * What solutions does Zip offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-    Zip's (or all BNPL) major competitors are the banks, more specifically credit cards, what Zip offers is an intrest free credit.
+    Zip's (or all BNPL) major competitors are the banks, more specifically credit cards, what Zip offers is intrest free credit and almost instant access to apply for that credit.
 An advantage over other BNPL's is that Zip also has a feature that allows users to use its services with any retailer, not just registered merchants (sounds a bit like a credit card to me!).
 * Which technologies are they currently using, and how are they implementing them?
     
