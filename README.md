@@ -44,7 +44,7 @@ An advantage over other BNPL's is that Zip also has a feature that allows users 
 ## Results:
 * What has been the business impact of this company so far?
 
-    Zip has become a global BNPL leader via acquisitions across nine markets. 
+    Growth, growth and more growth... Zip has become a global BNPL leader via acquisitions across nine markets.  Zip has been a huge disruptor in finance sector.
     ![Zip is now in 9 different countries](https://i0.wp.com/prophet-invest.com/wp-content/uploads/2021/03/image-2.png?w=934&ssl=1)
 
 
