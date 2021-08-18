@@ -1,6 +1,7 @@
 # Zip Co Ltd Case Study
 ![Zip Co Logo](https://zip.co/nz/wp-content/uploads/2019/11/Primary-Logo-Colour-600x249.png)
-Produced by Luke Macumber
+
+#### Produced by Luke Macumber
 
 ## Overview and Origin
 
