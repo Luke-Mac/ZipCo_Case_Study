@@ -1,5 +1,6 @@
 # Zip Co Ltd Case Study
 ![Zip Co Logo](https://zip.co/nz/wp-content/uploads/2019/11/Primary-Logo-Colour-600x249.png)
+Produced by Luke Macumber
 
 ## Overview and Origin
 
@@ -22,9 +23,12 @@ The size of the BNPL market in Australia alone is over 6 million users with a va
 
     Zip's (or all BNPL) major competitors are the banks, more specifically credit cards, what Zip offers is intrest free credit and almost instant access to apply for that credit.
 An advantage over other BNPL's is that Zip also has a feature that allows users to use its services with any retailer, not just registered merchants (sounds a bit like a credit card to me!).
+Zip also offers personal finance management and education through its Pocketbook app aquired in 2016.
 * Which technologies are they currently using, and how are they implementing them?
     
     Zip's platform is entirely digital and leverages big data in its proprietary fraud and credit-decisioning technology to deliver real-time responses.  
+    Zip also utilises an advanced Secure Socket Layer (SSL) encryption technology similar to other banks, along with a two-factor authentication to protect personal information.
+    
 
 ## Landscape:
 * What domain of the financial industry is Zip in?
@@ -39,14 +43,14 @@ An advantage over other BNPL's is that Zip also has a feature that allows users 
 
 * What are the other main competitors in this domain?
     
-    The main players in this domain are Afterpay, Splitit, Sezzle, Quadpay (Aquired by Zip Co.), Affirm, Uplift, Klarna.
+    The main players in this domain are Afterpay, Splitit, Sezzle, Quadpay (Aquired by Zip Co.), Affirm, Uplift, Klarna, Latitute, Openpay. The domain is growing at a rapid rate with (as I am typing this now 18/07/21) the Commonwealth Bank just launched it's BNPL StepPay.
 
 ## Results:
 * What has been the business impact of this company so far?
 
     Growth, growth and more growth... Zip has become a global BNPL leader via acquisitions across nine markets.  Zip has been a huge disruptor in finance sector.
     ![Zip is now in 9 different countries](https://i0.wp.com/prophet-invest.com/wp-content/uploads/2021/03/image-2.png?w=934&ssl=1)
-
+    This has also had a huge impact on the retail industry with merchants giving buyers instant access to make that purchase in full.
 
 
 * What are some of the core metrics that companies in this domain use to measure success?  How is Zip performing, based on these metrics?
@@ -57,7 +61,7 @@ An advantage over other BNPL's is that Zip also has a feature that allows users 
 
 * How is Zip performing relative to competitors in the same domain?
 
-    Zip has become the number 2 player in this domain with Afterpay a clear leader.
+    Zip has become the number 2 player in this domain with Afterpay a clear leader.  Zip is certainly in a growth stage and closing the gap with a massive aquisition of US BNPL company Quadpay. This alone will increase numbers greatly in its four core metrics (above).
 
 ## Recommendations:
 * If I were to advise Zip, what products or services would you suggest they offer?
@@ -88,3 +92,4 @@ ___
 >7. https://en.wikipedia.org/wiki/Coinbase
 >8. https://prophet-invest.com/should-i-buy-zippay-shares-z1p-asx
 >9. https://www.moneymorning.com.au/20201130/whats-keeping-zip-share-price-down-asx-z1p.html
+>10. https://www.fool.com.au/2020/10/05/afterpay-vs-zip-which-is-the-better-investment/
